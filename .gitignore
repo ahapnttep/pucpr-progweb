@@ -1,1 +1,13 @@
-.DS_Store
+# macOS .DS_Store
+
+# Node.js
+node_modules/
+
+# Environment files
+.env
+
+# Python
+__pycache__/ *.pyc
+
+# Sass
+*.css.map
